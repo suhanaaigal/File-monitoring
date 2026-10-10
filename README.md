@@ -73,10 +73,6 @@ file-integrity-monitor/
 
 ## Installation
 
-### Clone Repository
-
-bash:
-git clone https://github.com/Aniket15112005/file-integrity-monitor.git
 
 
 ### Install Dependencies
